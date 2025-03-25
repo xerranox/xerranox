@@ -46,8 +46,5 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## :open_book: MOST USED LENGUAGES:
-![MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xerranox)
-
 <!-- Imagenes: https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact- -->
 <!-- Emogis: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
